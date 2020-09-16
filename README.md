@@ -34,7 +34,7 @@ Currently a student in Computer programming and analysis at [Seneca College](htt
 <img src="https://img.shields.io/badge/Visual Studio Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio%20-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse%20IDE%20-%232C2255.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDE%20-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA%20-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 <!-- Framework -->
 <p align="center">
