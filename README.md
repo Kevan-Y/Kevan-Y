@@ -60,6 +60,7 @@ Currently a student in Computer programming and analysis at [Seneca College](htt
 <br>
 <br>
 
+<!-- Icon -->
 <p align="center">
 <a href="https://linkedin.com/in/kevan-yang">
 <img align="center" src="https://img.icons8.com/color/linkedin" alt="kevan-yang" height="40" width="40" />
