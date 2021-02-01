@@ -50,11 +50,11 @@ Currently a student in Computer programming and analysis at [Seneca College](htt
 ### 📈 My GitHub Stats
 
 <div align="center">
-<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=Pandanoxes&show_icons=true&theme=buefy">
+<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=Kevan-Y&show_icons=true&theme=buefy">
 </div>
 <br>
 <div align="center">
-<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandanoxes&layout=compact&theme=buefy">
+<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevan-Y&layout=compact&theme=buefy">
 </div>
 
 <br>
@@ -66,7 +66,7 @@ Currently a student in Computer programming and analysis at [Seneca College](htt
 <img align="center" src="https://img.icons8.com/color/linkedin" alt="kevan-yang" height="40" width="40" />
 </a>
 <a href="https://github.com/Pandanoxes">
-<img align="center" src="https://img.icons8.com/nolan/64/github.png" alt="Pandanoxes's GitHub Profile" height="40" width="40" />
+<img align="center" src="https://img.icons8.com/nolan/64/github.png" alt="Kevan-Y's GitHub Profile" height="40" width="40" />
 </a>
 <a href="https://dev.to/pandanoxes">
   <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pandanox's DEV Profile" height="40" width="40">
