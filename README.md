@@ -50,11 +50,11 @@ Currently a student in Computer programming and analysis at [Seneca College](htt
 ### 📈 My GitHub Stats
 
 <div align="center">
-<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=Kevan-Y&show_icons=true&theme=buefy">
+<img  alt ="Pandanoxes's Github Stats"src="https://github-readme-stats.vercel.app/api?username=Kevan-Y&show_icons=true&theme=tokyonight">
 </div>
 <br>
 <div align="center">
-<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevan-Y&layout=compact&theme=buefy">
+<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevan-Y&layout=compact&theme=tokyonight">
 </div>
 
 <br>
