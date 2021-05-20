@@ -2,7 +2,7 @@
 
 ---
 
-Currently a student in Computer programming and analysis at [Seneca College](https://www.senecacollege.ca/). I'm passionate about new technologies, and interested in AI field, web development.
+Currently a student in Computer programming and analysis at [Seneca College](https://www.senecacollege.ca/). I'm passionate about new technologies, interested in AI field, and web development.
 
 - 🌱 I’m currently learning everything
 - 📫 How to reach me **kev.yxg@gmail.com**
